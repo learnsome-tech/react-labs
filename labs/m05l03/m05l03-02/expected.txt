@@ -1,0 +1,2 @@
+Initial: Store: 100
+Updated: Store: 250

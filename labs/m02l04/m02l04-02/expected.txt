@@ -1,0 +1,3 @@
+Initial unmounts: 0
+After type change unmounts: 1
+DOM tag: SECTION

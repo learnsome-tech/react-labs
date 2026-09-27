@@ -1,0 +1,2 @@
+Native exists: true
+Flow: capture -> btn:click -> bubble

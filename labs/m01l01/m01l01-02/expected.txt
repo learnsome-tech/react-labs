@@ -1,0 +1,3 @@
+Element type: function
+Title prop: Active Users
+Rendered: <div class="card"><h3>Active Users</h3><span>Count: 42</span></div>

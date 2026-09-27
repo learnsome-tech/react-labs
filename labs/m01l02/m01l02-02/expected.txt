@@ -1,0 +1,2 @@
+Impure identical: false
+Pure identical: true

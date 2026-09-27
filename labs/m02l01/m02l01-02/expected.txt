@@ -1,0 +1,3 @@
+Nodes compared: 2
+Mutations required: 1
+DOM Patch: Update text to "Beta"

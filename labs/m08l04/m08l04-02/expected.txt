@@ -1,0 +1,4 @@
+Total height: 400000
+Start index: 9
+End index: 16
+DOM node count: 8

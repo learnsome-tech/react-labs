@@ -1,0 +1,2 @@
+Div markup: <div class="box box--primary">Panel</div>
+Button markup: <button class="box box--secondary">Action</button>

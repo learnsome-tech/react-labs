@@ -1,0 +1,1 @@
+Stored A: 25, B: ok
