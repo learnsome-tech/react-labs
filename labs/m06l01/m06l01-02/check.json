@@ -1,0 +1,21 @@
+{
+  "lab": "m06l01-02",
+  "lesson": "m06l01",
+  "title": "Lane Scheduler",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node lane_scheduler.ts",
+  "main": "lane_scheduler.ts",
+  "files": [
+    "lane_scheduler.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

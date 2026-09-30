@@ -1,0 +1,22 @@
+{
+  "lab": "m05l02-02",
+  "lesson": "m05l02",
+  "title": "Custom Hook",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx custom_hook.tsx",
+  "main": "custom_hook.tsx",
+  "files": [
+    "custom_hook.tsx",
+    "dom-shim.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

@@ -1,0 +1,22 @@
+{
+  "lab": "m06l02-02",
+  "lesson": "m06l02",
+  "title": "Transition Demo",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx transition_demo.tsx",
+  "main": "transition_demo.tsx",
+  "files": [
+    "dom-shim.ts",
+    "run.sh",
+    "transition_demo.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

@@ -1,0 +1,22 @@
+{
+  "lab": "m02l05-02",
+  "lesson": "m02l05",
+  "title": "Synthetic Events",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx synthetic_events.tsx",
+  "main": "synthetic_events.tsx",
+  "files": [
+    "dom-shim.ts",
+    "run.sh",
+    "synthetic_events.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

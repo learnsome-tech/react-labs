@@ -1,0 +1,21 @@
+{
+  "lab": "m01l02-02",
+  "lesson": "m01l02",
+  "title": "Component Purity",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx component_purity.tsx",
+  "main": "component_purity.tsx",
+  "files": [
+    "component_purity.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

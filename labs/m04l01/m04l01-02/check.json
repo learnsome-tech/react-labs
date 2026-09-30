@@ -1,0 +1,22 @@
+{
+  "lab": "m04l01-02",
+  "lesson": "m04l01",
+  "title": "Lifting State",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx lifting_state.tsx",
+  "main": "lifting_state.tsx",
+  "files": [
+    "dom-shim.ts",
+    "lifting_state.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

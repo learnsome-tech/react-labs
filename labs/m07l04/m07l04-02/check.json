@@ -1,0 +1,22 @@
+{
+  "lab": "m07l04-02",
+  "lesson": "m07l04",
+  "title": "Portal Demo",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx portal_demo.tsx",
+  "main": "portal_demo.tsx",
+  "files": [
+    "dom-shim.ts",
+    "portal_demo.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

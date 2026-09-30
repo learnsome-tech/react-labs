@@ -1,0 +1,21 @@
+{
+  "lab": "m01l03-02",
+  "lesson": "m01l03",
+  "title": "Polymorphic Box",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx polymorphic_box.tsx",
+  "main": "polymorphic_box.tsx",
+  "files": [
+    "polymorphic_box.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

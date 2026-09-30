@@ -1,2 +1,0 @@
-Content: Total: 75
-Render passes: 1

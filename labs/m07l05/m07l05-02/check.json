@@ -1,0 +1,22 @@
+{
+  "lab": "m07l05-02",
+  "lesson": "m07l05",
+  "title": "Suspense Fetch",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx suspense_fetch.tsx",
+  "main": "suspense_fetch.tsx",
+  "files": [
+    "dom-shim.ts",
+    "run.sh",
+    "suspense_fetch.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

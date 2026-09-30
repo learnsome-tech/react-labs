@@ -1,0 +1,22 @@
+{
+  "lab": "m05l05-02",
+  "lesson": "m05l05",
+  "title": "Use Id Demo",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx use_id_demo.tsx",
+  "main": "use_id_demo.tsx",
+  "files": [
+    "dom-shim.ts",
+    "run.sh",
+    "tsconfig.json",
+    "use_id_demo.tsx"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

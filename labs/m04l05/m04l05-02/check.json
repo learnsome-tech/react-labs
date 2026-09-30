@@ -1,0 +1,22 @@
+{
+  "lab": "m04l05-02",
+  "lesson": "m04l05",
+  "title": "Slot Patterns",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx slot_patterns.tsx",
+  "main": "slot_patterns.tsx",
+  "files": [
+    "dom-shim.ts",
+    "run.sh",
+    "slot_patterns.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

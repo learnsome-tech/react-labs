@@ -1,0 +1,22 @@
+{
+  "lab": "m08l05-02",
+  "lesson": "m08l05",
+  "title": "Accessible Tabs",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx accessible_tabs.tsx",
+  "main": "accessible_tabs.tsx",
+  "files": [
+    "accessible_tabs.tsx",
+    "dom-shim.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

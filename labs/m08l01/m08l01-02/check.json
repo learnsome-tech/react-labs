@@ -1,0 +1,22 @@
+{
+  "lab": "m08l01-02",
+  "lesson": "m08l01",
+  "title": "Profiler Demo",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx profiler_demo.tsx",
+  "main": "profiler_demo.tsx",
+  "files": [
+    "dom-shim.ts",
+    "profiler_demo.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

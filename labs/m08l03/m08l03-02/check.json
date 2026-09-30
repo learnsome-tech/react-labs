@@ -1,0 +1,21 @@
+{
+  "lab": "m08l03-02",
+  "lesson": "m08l03",
+  "title": "Compiler Cache",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node compiler_cache.ts",
+  "main": "compiler_cache.ts",
+  "files": [
+    "compiler_cache.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

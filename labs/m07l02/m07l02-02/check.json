@@ -1,0 +1,22 @@
+{
+  "lab": "m07l02-02",
+  "lesson": "m07l02",
+  "title": "Lazy Chunks",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx lazy_chunks.tsx",
+  "main": "lazy_chunks.tsx",
+  "files": [
+    "dom-shim.ts",
+    "lazy_chunks.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

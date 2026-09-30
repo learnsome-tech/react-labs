@@ -1,0 +1,21 @@
+{
+  "lab": "m08l04-02",
+  "lesson": "m08l04",
+  "title": "Virtual List",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node virtual_list.ts",
+  "main": "virtual_list.ts",
+  "files": [
+    "run.sh",
+    "tsconfig.json",
+    "virtual_list.ts"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

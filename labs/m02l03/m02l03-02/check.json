@@ -1,0 +1,22 @@
+{
+  "lab": "m02l03-02",
+  "lesson": "m02l03",
+  "title": "Keys Demo",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx keys_demo.tsx",
+  "main": "keys_demo.tsx",
+  "files": [
+    "dom-shim.ts",
+    "keys_demo.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

@@ -1,0 +1,22 @@
+{
+  "lab": "m06l03-02",
+  "lesson": "m06l03",
+  "title": "Action State",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx action_state.tsx",
+  "main": "action_state.tsx",
+  "files": [
+    "action_state.tsx",
+    "dom-shim.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

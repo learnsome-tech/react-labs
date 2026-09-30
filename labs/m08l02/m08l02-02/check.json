@@ -1,0 +1,22 @@
+{
+  "lab": "m08l02-02",
+  "lesson": "m08l02",
+  "title": "Memo Costs",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx memo_costs.tsx",
+  "main": "memo_costs.tsx",
+  "files": [
+    "dom-shim.ts",
+    "memo_costs.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

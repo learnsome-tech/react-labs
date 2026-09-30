@@ -1,0 +1,22 @@
+{
+  "lab": "m05l03-02",
+  "lesson": "m05l03",
+  "title": "Sync External Store",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx sync_external_store.tsx",
+  "main": "sync_external_store.tsx",
+  "files": [
+    "dom-shim.ts",
+    "run.sh",
+    "sync_external_store.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

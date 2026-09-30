@@ -1,0 +1,22 @@
+{
+  "lab": "m06l05-02",
+  "lesson": "m06l05",
+  "title": "Use Hook Demo",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx use_hook_demo.tsx",
+  "main": "use_hook_demo.tsx",
+  "files": [
+    "dom-shim.ts",
+    "run.sh",
+    "tsconfig.json",
+    "use_hook_demo.tsx"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

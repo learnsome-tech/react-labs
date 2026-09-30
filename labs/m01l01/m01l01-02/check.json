@@ -1,0 +1,21 @@
+{
+  "lab": "m01l01-02",
+  "lesson": "m01l01",
+  "title": "Jsx Runtime",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node jsx_runtime.ts",
+  "main": "jsx_runtime.ts",
+  "files": [
+    "jsx_runtime.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

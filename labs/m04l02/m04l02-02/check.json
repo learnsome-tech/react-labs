@@ -1,0 +1,22 @@
+{
+  "lab": "m04l02-02",
+  "lesson": "m04l02",
+  "title": "Context Scope",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx context_scope.tsx",
+  "main": "context_scope.tsx",
+  "files": [
+    "context_scope.tsx",
+    "dom-shim.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

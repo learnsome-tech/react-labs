@@ -1,0 +1,21 @@
+{
+  "lab": "m02l02-02",
+  "lesson": "m02l02",
+  "title": "Fiber Walk",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node fiber_walk.ts",
+  "main": "fiber_walk.ts",
+  "files": [
+    "fiber_walk.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

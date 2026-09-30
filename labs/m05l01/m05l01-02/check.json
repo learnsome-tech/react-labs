@@ -1,0 +1,21 @@
+{
+  "lab": "m05l01-02",
+  "lesson": "m05l01",
+  "title": "Hook Storage",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node hook_storage.ts",
+  "main": "hook_storage.ts",
+  "files": [
+    "hook_storage.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

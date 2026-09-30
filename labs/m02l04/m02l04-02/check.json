@@ -1,0 +1,22 @@
+{
+  "lab": "m02l04-02",
+  "lesson": "m02l04",
+  "title": "Diffing Types",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx diffing_types.tsx",
+  "main": "diffing_types.tsx",
+  "files": [
+    "diffing_types.tsx",
+    "dom-shim.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

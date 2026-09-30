@@ -1,0 +1,22 @@
+{
+  "lab": "m03l05-02",
+  "lesson": "m03l05",
+  "title": "Imperative Handle",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx imperative_handle.tsx",
+  "main": "imperative_handle.tsx",
+  "files": [
+    "dom-shim.ts",
+    "imperative_handle.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}
